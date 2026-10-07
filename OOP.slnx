@@ -2,4 +2,6 @@
   <Project Path="classesEx01/classesEx01.csproj" />
   <Project Path="classesEx02/classesEx02.csproj" />
   <Project Path="classesEx03/classesEx03.csproj" Id="664420dc-34cb-4202-8101-d36bed4c9410" />
+  <Project Path="classesEx04/classesEx04.csproj" Id="92f4c16f-f19a-4aa8-a75f-8892e326c2d2" />
+  <Project Path="classesEx05/classesEx05.csproj" Id="3fcd88d1-2a02-4f55-90e4-cc70e8ed3e9e" />
 </Solution>
